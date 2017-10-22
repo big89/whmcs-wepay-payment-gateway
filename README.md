@@ -23,9 +23,11 @@ We provide everything you need to seamlessly facilitate payments between your us
 
 ## Quick Start Integration
 1. Merchant Onboarding
+
 Enable your users to accept payments.
 
 2. Payment Processing
+
 Charge payers on behalf of your merchants.
 
 ## Sign Up
