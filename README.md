@@ -6,8 +6,6 @@ For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
 
 Payment Gateway modules allow you to integrate payment solutions with the WHMCS platform.
 
-# WePay Payment Module for WHMCS
-
 ## Installtion Steps
 
     Download the modules directory or Git clone the modules directory to root directory of WHMCS installtion.
