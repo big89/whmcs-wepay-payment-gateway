@@ -1,4 +1,4 @@
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
 
 # WHMCS WePay Payment Gateway
 
@@ -66,5 +66,5 @@ There are 3 steps to using the iframe:
     Handle the confirmation page the payer ends up on after paying.
 
 
-For integration with your WHMCS, Contact us : bhagwansahane89@gmail.com
+For integration with your WHMCS, visit http://logicmaker.in or email us at : support@logicmaker.in
 
